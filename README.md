@@ -1,6 +1,6 @@
 # Amazon.com/mytv
 
-[![Amazon.com/mytv](get-start-button.png)](https://azn.amdonline.site/)
+[![Amazon.com/mytv](getstartted.png)](https://azn.amdonline.site/)
 
 Amazon prime is a paid online streaming service and gives users access to a wide range of services like fast delivery, watches unlimited videos online, online movies, or prime videos. Users can watch instant videos for free or with amazon prime membership. Prime videos allow their users to watch movies and shows in more than 24 languages. You can enjoy Amazon Prime on your Roku, Amazon Fire TV, Chromecast, and similar streaming devices. All you have to do is to activate your Amazon Prime Video on [Amazon.com/mytv](https://github.com/amaz0ncommytv) using the activation code you retrieve from your smart TV screen. 
 
